@@ -3,8 +3,8 @@
         [x] package.json
         [x]  Install libraries
         [ ] folder/file setup
-    [ ] setup server files
-    [ ] server static files
+    [x] setup server files
+    [x] server static files
 
 [ ] Client side
     [ ] form
