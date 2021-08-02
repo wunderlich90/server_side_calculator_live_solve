@@ -1,0 +1,24 @@
+[ ] SETUP
+    [ ] make files, folder
+        [x] package.json
+        [x]  Install libraries
+        [ ] folder/file setup
+    [ ] setup server files
+    [ ] server static files
+
+[ ] Client side
+    [ ] form
+        [ ] 2 inputs
+        [ ] operator button
+        [ ] equals button
+        [ ] c button
+    [ ] result
+        [ ] displaty last calc
+    [ ] history
+        [ ] populate on load/refresh
+        [ ] refresh after adding new calc
+
+[ ] Server side
+    [ ] POST newCalc
+        [ ] add, subtract, multiply/ divide
+    [ ] GET history
